@@ -13,7 +13,7 @@
 
 # Screenshots
 
-<img src="https://github.com/Chien-Mu/MeanShift-tracking/blob/master/resource/1.gif" width="70%" height="70%" />
+![image](https://github.com/Chien-Mu/MeanShift-tracking/blob/master/resource/1.gif)
 
 
 
